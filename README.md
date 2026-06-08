@@ -74,28 +74,28 @@ streamlit run report_app.py
 ##  Results
 
 ### Dataset Preview
-![Dataset Preview](images/dataset_preview.png)
+![Dataset Preview](snapshots/dataset_preview.png)
 
 ### Electricity Consumption Over Time
-![Demand Over Year](images/demand_over_year.png)
+![Demand Over Year](snapshots/demand_over_year.png)
 
 ### Correlation Heatmap
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](snapshots/correlation_heatmap.png)
 
 ### Training Dataset Results
-![Training Results](images/training_results.png)
+![Training Results](snapshots/training_results.png)
 
 ### Testing Dataset Results
-![Testing Results](images/testing_results.png)
+![Testing Results](snapshots/testing_results.png)
 
 ### Date-wise Data Filtering
-![Date Filter Analysis](images/date_filter_analysis.png)
+![Date Filter Analysis](snapshots/date_filter_analysis.png)
 
 ### Peak Demand Analysis
-![Peak Demand Analysis](images/peak_demand_analysis.png)
+![Peak Demand Analysis](snapshots/peak_demand_analysis.png)
 
 ### Demand Prediction Dashboard
-![Demand Prediction](images/demand_prediction.png)
+![Demand Prediction](snapshots/demand_prediction.png)
 
 ## Key Outcomes
 
